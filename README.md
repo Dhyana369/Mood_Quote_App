@@ -8,10 +8,8 @@ Built using **Python**, **Streamlit**, and **Pandas**.
 
 ## 🚀 Live App
 
-(After deployment, paste your app link here)
-
 Example:
-https://your-app-name.streamlit.app
+https://moodquoteapp-7j3x5ut7qk6n2gjfvh7ngk.streamlit.app/
 
 ---
 
@@ -64,9 +62,3 @@ streamlit run app.py
 😴 Tired
 🤔 Confused
 
----
-
-## Live App
-
-✨ Try it here:
-👉 https://moodquoteapp-7j3x5ut7qk6n2gjfvh7ngk.streamlit.app/
