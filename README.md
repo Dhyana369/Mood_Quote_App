@@ -32,14 +32,14 @@ https://moodquoteapp-7j3x5ut7qk6n2gjfvh7ngk.streamlit.app/
 ---
 
 ## 📂 Project Structure
-
+```
 mood_quote_app
 │
 ├── app.py
 ├── quotes.csv
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## ▶️ Run Locally
@@ -55,10 +55,10 @@ streamlit run app.py
 ---
 
 ## 📊 Example Moods Supported
-
+```
 😄 Happy
 😔 Sad
 🔥 Motivated
 😴 Tired
 🤔 Confused
-
+```
